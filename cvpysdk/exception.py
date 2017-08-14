@@ -109,6 +109,16 @@ EXCEPTION_DICT = {
         '101': 'Data type of the input(s) is not valid',
         '102': '',
         '103': 'Workflow XML is not a valid file'
+    },
+    'Datacube': {
+        '101': 'Data type of the input(s) is not valid',
+        '102': '',
+        '103': 'Failed to get the list of analytics engines',
+        '104': 'Failed to get the datasources'
+    },
+    'GlobalFilter': {
+        '101': 'Data type of the input(s) is not valid',
+        '102': ''
     }
 }
 
